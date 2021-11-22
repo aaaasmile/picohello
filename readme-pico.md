@@ -1,4 +1,4 @@
-#Hello Pico
+# Hello Pico
 Ho provato un piccolo programma con Tinygo e Raspberry pico.
 L'installazione do Tinygo l'ho eseguita in powershell con scoop.
 scoop install tinygo
@@ -8,6 +8,6 @@ Per questa procedura basta premere il tasto boot e collegare il cavo usb.
 Ora basta lanciare in terminal il seguente comando:
 tinygo flash -target=pico main.go
 
-##Link
+## Link
 Ho seguito le istruzioni di questo video:
 https://www.youtube.com/watch?v=Fl5eFIYU1Xg&ab_channel=PatricioWhittingslow
